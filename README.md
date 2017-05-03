@@ -1,4 +1,5 @@
 # CommentDialog
+![](http://i.imgur.com/LItfGGH.gif)
 ## 开始
 
 ### 自定义Dialog
